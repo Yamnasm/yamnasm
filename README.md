@@ -1,1 +1,2 @@
-I code python scripts.
+I code python scripts...
+Mostly at work. Sorry github.
